@@ -1,2 +1,1 @@
 var text = "Hola"
-holahola
